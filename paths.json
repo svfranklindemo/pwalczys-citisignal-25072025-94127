@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/eds-citisignal-source/:/",
-      "/content/pbakliwal/eds-citisignal-source/configuration:/.helix/config.json",
-      "/content/pbakliwal/eds-citisignal-source/metadata:/metadata.json",
-      "/content/pbakliwal/eds-citisignal-source/configs:/configs.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/eds-citisignal-source/redirects:/redirects.json",
-      "/content/pbakliwal/eds-citisignal-source/placeholders:/placeholders.json",
-      "/content/pbakliwal/eds-citisignal-source/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/eds-citisignal-source/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/eds-citisignal-source/images/products/:/images/products/"
+      "/content/pwalczys/new-demo/:/",
+      "/content/pwalczys/new-demo/configuration:/.helix/config.json",
+      "/content/pwalczys/new-demo/metadata:/metadata.json",
+      "/content/pwalczys/new-demo/configs:/configs.json",
+      "/content/pwalczys/new-demo/configs-stage:/configs-stage.json",
+      "/content/pwalczys/new-demo/configs-dev:/configs-dev.json",
+      "/content/pwalczys/new-demo/redirects:/redirects.json",
+      "/content/pwalczys/new-demo/placeholders:/placeholders.json",
+      "/content/pwalczys/new-demo/products/recommended-products:/products/recommended-products.json",
+      "/content/pwalczys/new-demo/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pwalczys/new-demo/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/eds-citisignal-source",
+      "/content/pwalczys/new-demo",
       "/content/dam/citisignal/images/products/"
     ]
 }
